@@ -58,7 +58,3 @@ This project demonstrates a modular chatbot system using LangGraph and Streamlit
 - For database persistence, configure the backend and frontend to use the same storage.
 
 ---
-
-**Author:** Your Name Here
-**Date:** March 2026
-
